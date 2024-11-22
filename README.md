@@ -11,6 +11,8 @@
 
 🌟 흥미: 모바일 게임, 해외 음악
 
+👋 취미: POP 가수들, J-POP 가수들의 내한콘서트 보러가기, 일본만화 읽기기
+
 📝 간단한 자기소개: 
 
 저는 예술과 과학에 관심을 가지며 창의적인 아이디어를 실현하고 문제를 해결하는 과정에서 즐거움을 느껴왔습니다. 다양한 도전을 통해 성장하며 저만의 정체성을 찾아가고 있습니다.
@@ -82,7 +84,12 @@
 
 ---
 
-이 과정을 통해 충전기와 자신의 얼굴을 창조적으로 "아담의 창조"에 합성할 수 있습니다! 🎨
+이 사용법을 능숙하게 익히면 저와 같은 프로젝트를 합성해낼 수 있습니다! 🎨
+
+# 🤝 Let's Collaborate!
+저와 협업하고 싶으시다면 언제든 저에게 연락 주세요!
+
+이메일이 가장 빨리 확인합니다!
 
 # 📬 How to Reach Me
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://youtube.com/@3388kimminwook?si=ueWXU2lr0eRgymMa)](https://youtube.com/@3388kimminwook?si=ueWXU2lr0eRgymMa)
