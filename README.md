@@ -10,3 +10,5 @@
 🎯 목표: 게임 개발자로 성장
 
 🌟 흥미: 모바일 게임, 해외 음악
+
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://youtube.com/@3388kimminwook?si=ueWXU2lr0eRgymMa)](https://youtube.com/@3388kimminwook?si=ueWXU2lr0eRgymMa)
