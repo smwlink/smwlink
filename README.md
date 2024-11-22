@@ -12,3 +12,5 @@
 🌟 흥미: 모바일 게임, 해외 음악
 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://youtube.com/@3388kimminwook?si=ueWXU2lr0eRgymMa)](https://youtube.com/@3388kimminwook?si=ueWXU2lr0eRgymMa)
+
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=smwlink)](https://github.com/anuraghazra/github-readme-stats)
