@@ -24,4 +24,5 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kim.minook?igsh=MTA5bng0bTBuNGU4Mw==)](https://www.instagram.com/kim.minook?igsh=MTA5bng0bTBuNGU4Mw==)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:smwlink@gmail.com)](mailto:smwlink@gmail.com)
 
+# 📊 GitHub Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=smwlink)](https://github.com/anuraghazra/github-readme-stats)
