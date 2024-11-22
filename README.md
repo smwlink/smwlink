@@ -89,7 +89,7 @@
 # 🤝 Let's Collaborate!
 저와 협업하고 싶으시다면 언제든 저에게 연락 주세요!
 
-이메일이 가장 빨리 확인합니다!
+이메일을 가장 빨리 확인합니다!
 
 # 📬 How to Reach Me
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://youtube.com/@3388kimminwook?si=ueWXU2lr0eRgymMa)](https://youtube.com/@3388kimminwook?si=ueWXU2lr0eRgymMa)
