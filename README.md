@@ -26,7 +26,7 @@
 
 설명: 자신의 기획대로 포토샵을 이용해서 의미있는 이미지를 만듭니다.
 
-주요 사용 프로그램: Adobe Photoshop
+주요 사용 프로그램: Adobe Photoshop 🎨
 
 📚 간단한 설명:
 
@@ -78,8 +78,7 @@
 
 ### 6. **최종 마무리**
 - **도구:** *Clone Stamp Tool (S)*, *Spot Healing Brush Tool (J)*  
-- 세부적인 수정이 필요한 부분(예: 가장자리 어색함)을 다듬습니다.  
-- 마지막으로 *File > Export > Save for Web (Legacy)*로 파일을 저장합니다.  
+- 세부적인 수정이 필요한 부분(예: 가장자리 어색함)을 다듬습니다.
 
 ---
 
