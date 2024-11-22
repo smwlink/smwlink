@@ -12,5 +12,6 @@
 🌟 흥미: 모바일 게임, 해외 음악
 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://youtube.com/@3388kimminwook?si=ueWXU2lr0eRgymMa)](https://youtube.com/@3388kimminwook?si=ueWXU2lr0eRgymMa)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kim.minook?igsh=MTA5bng0bTBuNGU4Mw==)](https://www.instagram.com/kim.minook?igsh=MTA5bng0bTBuNGU4Mw==)
 
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=smwlink)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=smwlink)](https://github.com/anuraghazra/github-readme-stats)
